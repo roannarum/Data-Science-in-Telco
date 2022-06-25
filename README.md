@@ -6,7 +6,7 @@ Pandas
 
 Pandas (Python for Data Analysis) adalah library Python yang fokus untuk proses analisis data seperti manipulasi data, persiapan data, dan pembersihan data.
 
-<i>read_csv() digunakan untuk membaca file csv </i></br>
+<li>read_csv() digunakan untuk membaca file csv </li></br>
 str.match() digunakan untuk mencocokan dengan karakter tertentu 
 drop() digunakan untuk menghapus
 count() digunakan untuk menghitung masing-masing variable
