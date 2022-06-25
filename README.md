@@ -2,7 +2,7 @@
 
 Library yang Digunakan
 
-Pandas
+<b>Pandas</b>
 
 Pandas (Python for Data Analysis) adalah library Python yang fokus untuk proses analisis data seperti manipulasi data, persiapan data, dan pembersihan data.
 
@@ -20,7 +20,8 @@ Pandas (Python for Data Analysis) adalah library Python yang fokus untuk proses 
 <li>isnull() digunakan untuk mendeteksi missing values</li>
 <li>dropna() digunakan untuk menghapus missing values</li>
 <li>replace() digunakan untuk mengganti nilai</li>
-Matplotlib
+
+<mark>Matplotlib</mark>
 
 Matplotlib adalah library Python yang fokus pada visualisasi data seperti membuat plot grafik. Matplotlib dapat digunakan dalam skrip Python, Python dan IPython shell, server aplikasi web, dan beberapa toolkit graphical user interface (GUI) lainnya.
 
