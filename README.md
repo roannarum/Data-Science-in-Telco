@@ -19,15 +19,15 @@ Pandas (Python for Data Analysis) adalah library Python yang fokus untuk proses 
 <li>sort_values() digunakan untuk sort values</li>
 <li>isnull() digunakan untuk mendeteksi missing values</li>
 <li>dropna() digunakan untuk menghapus missing values</li>
-<li>replace() digunakan untuk mengganti nilai</li>
+<li>replace() digunakan untuk mengganti nilai</li><br>
 
-<mark>Matplotlib</mark>
+<b>Matplotlib</b>
 
 Matplotlib adalah library Python yang fokus pada visualisasi data seperti membuat plot grafik. Matplotlib dapat digunakan dalam skrip Python, Python dan IPython shell, server aplikasi web, dan beberapa toolkit graphical user interface (GUI) lainnya.
 
-figure() digunakan untuk membuat figure gambar baru
-Seaborn
+<li>figure() digunakan untuk membuat figure gambar baru</li><br>
+<b>Seaborn</b>
 
 Seaborn membangun di atas Matplotlib dan memperkenalkan tipe plot tambahan. Ini juga membuat plot Matplotlib tradisional Anda terlihat sedikit lebih cantik.
 
-box_plot() digunakan untuk membuat box plot
+<li>box_plot() digunakan untuk membuat box plot</li>
